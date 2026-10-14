@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.asaeza.calculhon",
+        "sha256_cert_fingerprints": ["0A:DC:16:FD:13:B6:B2:50:AC:5D:B7:C5:32:B0:2C:5A:62:A9:A5:74:9A:E6:75:94:EA:3D:0B:04:F0:25:57:0C"]
+      }
+    }]
